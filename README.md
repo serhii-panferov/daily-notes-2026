@@ -9,7 +9,7 @@ The idea is simple:
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 - Deepen expertise in PHP and modern backend practices  
 - Improve architecture, testing, performance and clean code approaches  
 - Explore Go for systems tasks and tooling  
